@@ -1,7 +1,7 @@
 # Sweetify
 A dark theme
 
-| Palette      | Hex       | ![Colors                                                                                                     |
+| Palette      | Hex       |   Colors                                                                                                     |
 | ------------ | --------- | ------------------------------------------------------------------------------------------------------------ |
 | Background   | `#190033` | ![Background   Color](https://github.com/IamHARSHDABAS/Sweetify/blob/master/Png/Background.png?raw=true)     |
 | Foreground   | `#7F40BF` | ![Foreground   Color](https://github.com/IamHARSHDABAS/Sweetify/blob/master/Png/Foreground.png?raw=true)     |
