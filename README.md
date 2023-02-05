@@ -5,7 +5,6 @@ A dark theme
 | ------------ | --------- | ------------------------------------------------------------------------------------------------------------ |
 | Background   | `#190033` | ![Background   Color](https://github.com/IamHARSHDABAS/Sweetify/blob/master/Png/Background.png?raw=true)     |
 | Foreground   | `#7F40BF` | ![Foreground   Color](https://github.com/IamHARSHDABAS/Sweetify/blob/master/Png/Foreground.png?raw=true)     |
-| Current Line | `#330066` | ![Current Line Color](https://github.com/IamHARSHDABAS/Sweetify/blob/master/Png/Current%20Line.png?raw=true) |
 | Selection    | `#330066` | ![Selection    Color](https://github.com/IamHARSHDABAS/Sweetify/blob/master/Png/Selection.png?raw=true)      |
 | Comment      | `#7F00FF` | ![Comment      Color](https://github.com/IamHARSHDABAS/Sweetify/blob/master/Png/Comment.png?raw=true)        |
 | Black        | `#000000` | ![Black        Color](https://github.com/IamHARSHDABAS/Sweetify/blob/master/Png/Black.png?raw=true)          |
